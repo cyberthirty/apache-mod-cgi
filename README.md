@@ -1,4 +1,4 @@
-# Python Libraries for Penetration Testing and Bug Hunting
+# exploit
 
 This document provides a list of essential Python libraries used for penetration testing and bug hunting. 
 
